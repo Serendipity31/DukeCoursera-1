@@ -1,5 +1,5 @@
 //First javascript code
-// Within Duke JS environment, changes chapel image to black and whiteSpace
+// Within Duke JS environment, changes chapel image to grey scale
 //http://www.dukelearntoprogram.com/course1/example/index.php
 
 var image = new SimpleImage("chapel.png");
